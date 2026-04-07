@@ -56,7 +56,13 @@ An interactive and visually rich **Guess The Number** game built with **Python &
 ---
 
 ## 📂 Project Structure
-
+main.py
+leaderboard.json
+/assets
+├── images
+├── sounds
+├── UI
+├── tutorial
 ---
 
 ## ▶️ How to Run
