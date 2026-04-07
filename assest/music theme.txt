@@ -1,0 +1,14 @@
+Beat:   1   &   2   &   3   &   4   &
+Kick:   X       -       X       -
+Snare:  -       -   X       -   X
+HiHat:  X   X   X   X   X   X   X   X
+
+
+
+Bar 1: C – E – G – E
+
+Bar 2: D – F – A – F
+
+Bar 3: E – G – B – G
+
+Bar 4: G – F – E – D (resolution back to C)
